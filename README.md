@@ -1,5 +1,5 @@
 <img src="https://www.paginaswebs.com/wp-content/uploads/2019/06/programar-en-python-javas.jpg" width="100%" title="hover text">
-<div style='background-image:url('https://www.paginaswebs.com/wp-content/uploads/2019/06/programar-en-python-javas.jpg')'>
+<div style='background-color:red'>
 
   <h1 align="center">Hola 👋, Mi nombre es Alfredo Calvelo</h1>
 <h3 align="center">Soy Full Stack Developer orientado al Front-End</h3>
