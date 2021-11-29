@@ -1,7 +1,8 @@
+![alt text](https://www.paginaswebs.com/wp-content/uploads/2019/06/programar-en-python-javas.jpg)
 <h1 align="center">Hola 👋, Mi nombre es Alfredo Calvelo</h1>
 <h3 align="center">Soy Full Stack Developer orientado al Front-End</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Encuentrame en:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alfredo-calvelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfredo calvelo" height="30" width="40" /></a>
 <a href="https://fb.com/acalvelo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alfredo caa" height="30" width="40" /></a>
