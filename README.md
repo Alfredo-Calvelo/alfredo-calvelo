@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Alfredo Calvelo</h1>
-<h3 align="center">Soy Full Stack Developer orientado al Front-End</h3>
+<h3 align="center">Soy Full Stack Developer</h3>
 
 <h3 align="left">Encuentrame en:</h3>
 <p align="left">
